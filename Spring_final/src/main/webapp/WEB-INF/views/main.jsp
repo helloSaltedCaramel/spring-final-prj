@@ -15,6 +15,7 @@
 		<jsp:include page="include/header.jsp" />
 	</header>
 	
+	
 	<div id="back_color">
 		<div id="recomm_acc">
 			<h2>추천 숙소</h2>
